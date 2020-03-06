@@ -1,0 +1,4 @@
+site_name: Política de Datos de la CDMX
+nav:
+  - Introducción: index.md
+  - Metadatos: metadatos.md
